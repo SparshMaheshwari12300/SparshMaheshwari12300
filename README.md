@@ -1,4 +1,5 @@
-![logo](https://github.com/SparshMaheshwari12300/SparshMaheshwari12300/blob/main/sm%20nb.jpg)
+![sm_nb](https://github.com/user-attachments/assets/527ac47d-0f6e-459e-b276-269bd313be15)
+
 <h1 align="center">Hi 👋, I'm Sparsh Maheshwari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
