@@ -20,6 +20,8 @@
 
 - 📫 How to reach me **sparsh12300@gmail.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sparshmaheshwari12300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparshmaheshwari12300" height="30" width="40" /></a>
@@ -27,6 +29,8 @@
 <a href="https://www.hackerrank.com/22bcon011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22bcon011" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sparsh_maheshwari12300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sparsh_maheshwari12300" height="30" width="40" /></a>
 </p>
+
+---
 
 ### 🧠 My Digital Toolkit
 
@@ -36,6 +40,8 @@
 | **Databases** | MySQL, PostreSQL |
 | **Tools** | Git, GitHub, Jupyter Notebook, Kaggle, Microsoft Excel, Power-BI, MySQL Workbench, pgAdmin 4 |
 | **FrontEnd** | HTML, CSS, JavaScript|
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshmaheshwari12300&show_icons=true&locale=en&layout=compact" alt="sparshmaheshwari12300" /></p>
 
