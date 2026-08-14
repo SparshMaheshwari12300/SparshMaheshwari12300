@@ -12,11 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshmaheshwari12300&label=Profile%20views&color=0e75b6&style=flat" alt="sparshmaheshwari12300" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, MS Excel, Python, SQL, Power BI, Java, MySQL, PostgresSQL and Bootstrap**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-gilt-ten-d276nhsa1f.vercel.app/](https://portfolio-gilt-ten-d276nhsa1f.vercel.app/)
-
-- 💬 Ask me about **Frontend development, data visualization, building responsive UIs, and interactive dashboards**
+- Detail-oriented and analytical Computer Science undergraduate with a strong foundation in Web Development and
+Data Analytics domain. Passionate about building responsive web applications and leveraging data analytics to derive
+actionable insights for data-driven decision-making. Eager to apply my technical skills, problem-solving abilities, and
+project experience to contribute effectively to a dynamic, growth-oriented organization while continuously enhancing
+myexpertise.
 
 - 📫 How to reach me **sparsh12300@gmail.com**
 
